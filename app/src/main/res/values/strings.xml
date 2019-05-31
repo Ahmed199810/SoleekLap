@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SoleekLapTask</string>
+    <string name="facebook_app_id">2267280363600433</string>
+    <string name="fb_login_protocol_scheme">fb2267280363600433</string>
+
+</resources>
